@@ -1,0 +1,3 @@
+0003||John Jedidiah||Gador||Getes||PRESENT
+0002||John Jedidiah||Gador||Getes||ABSENT
+0004||John Jedidiah||Gador||Getes||PRESENT
